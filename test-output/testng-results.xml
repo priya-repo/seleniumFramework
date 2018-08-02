@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Books List: The Power of Your Subconscious Mind: Unlock Your Master Key to Success]]>
+    </line>
+    <line>
+      <![CDATA[Books List: Wish You Young Forever - The most auspicious wish in one’s life is “Young Forever”. It is an amazing gift for a man of all age for any occasion. Gifting this is like gifting AGE to him.]]>
+    </line>
+    <line>
+      <![CDATA[Books List: The Power of your Subconscious Mind]]>
+    </line>
+    <line>
+      <![CDATA[Books List: The Subtle Art of Not Giving a F*ck]]>
+    </line>
+    <line>
+      <![CDATA[Books List: General Knowledge 2019]]>
+    </line>
+    <line>
+      <![CDATA[Books List: The Theory of Everything]]>
+    </line>
+    <line>
+      <![CDATA[Books List: Mein Kampf]]>
+    </line>
+    <line>
+      <![CDATA[Books List: Who Will Cry When You Die?]]>
+    </line>
+    <line>
+      <![CDATA[Books List: Wings of Fire: An Autobiography of Abdul Kalam]]>
+    </line>
+    <line>
+      <![CDATA[Books List: The Perfect Us]]>
+    </line>
+    <line>
+      <![CDATA[Books List: Simplify Your Life - Powerful Insight Into Life]]>
+    </line>
+    <line>
+      <![CDATA[Books List: Self-Help: With Illustrations of Conduct and Perseverance]]>
+    </line>
+    <line>
+      <![CDATA[Books List: Black Holes: The Reith Lectures]]>
+    </line>
+    <line>
+      <![CDATA[Books List: Three Thousand Stitches: Ordinary People, Extraordinary Lives]]>
+    </line>
+    <line>
+      <![CDATA[Books List: The Diary of a Young Girl]]>
+    </line>
+    <line>
+      <![CDATA[Books List: The Alchemist]]>
+    </line>
+    <line>
+      <![CDATA[Books List: How to Win Friends and Influence People]]>
+    </line>
+    <line>
+      <![CDATA[Books List: International Mathematics Olympiad Work Book (IMO) - Class 5 for 2018-19]]>
+    </line>
+    <line>
+      <![CDATA[Books List: International Mathematics Olympiad Work Book (IMO) - Class 2 for 2018-19]]>
+    </line>
+    <line>
+      <![CDATA[Books List: International Mathematics Olympiad Work Book (IMO) - Class 4 for 2018-19]]>
+    </line>
+    <line>
+      <![CDATA[Book List Printed as Expected - TC Failed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32017" started-at="2018-08-02T06:55:18Z" finished-at="2018-08-02T06:55:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32017" started-at="2018-08-02T06:55:18Z" finished-at="2018-08-02T06:55:50Z">
+      <class name="testCases.HomePageTest">
+        <test-method status="PASS" signature="browser()[pri:0, instance:testCases.HomePageTest@47c62251]" name="browser" is-config="true" duration-ms="1579" started-at="2018-08-02T06:55:18Z" finished-at="2018-08-02T06:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="tc()[pri:0, instance:testCases.HomePageTest@47c62251]" name="tc" duration-ms="30311" started-at="2018-08-02T06:55:19Z" finished-at="2018-08-02T06:55:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Books List: The Power of Your Subconscious Mind: Unlock Your Master Key to Success]]>
+            </line>
+            <line>
+              <![CDATA[Books List: Wish You Young Forever - The most auspicious wish in one’s life is “Young Forever”. It is an amazing gift for a man of all age for any occasion. Gifting this is like gifting AGE to him.]]>
+            </line>
+            <line>
+              <![CDATA[Books List: The Power of your Subconscious Mind]]>
+            </line>
+            <line>
+              <![CDATA[Books List: The Subtle Art of Not Giving a F*ck]]>
+            </line>
+            <line>
+              <![CDATA[Books List: General Knowledge 2019]]>
+            </line>
+            <line>
+              <![CDATA[Books List: The Theory of Everything]]>
+            </line>
+            <line>
+              <![CDATA[Books List: Mein Kampf]]>
+            </line>
+            <line>
+              <![CDATA[Books List: Who Will Cry When You Die?]]>
+            </line>
+            <line>
+              <![CDATA[Books List: Wings of Fire: An Autobiography of Abdul Kalam]]>
+            </line>
+            <line>
+              <![CDATA[Books List: The Perfect Us]]>
+            </line>
+            <line>
+              <![CDATA[Books List: Simplify Your Life - Powerful Insight Into Life]]>
+            </line>
+            <line>
+              <![CDATA[Books List: Self-Help: With Illustrations of Conduct and Perseverance]]>
+            </line>
+            <line>
+              <![CDATA[Books List: Black Holes: The Reith Lectures]]>
+            </line>
+            <line>
+              <![CDATA[Books List: Three Thousand Stitches: Ordinary People, Extraordinary Lives]]>
+            </line>
+            <line>
+              <![CDATA[Books List: The Diary of a Young Girl]]>
+            </line>
+            <line>
+              <![CDATA[Books List: The Alchemist]]>
+            </line>
+            <line>
+              <![CDATA[Books List: How to Win Friends and Influence People]]>
+            </line>
+            <line>
+              <![CDATA[Books List: International Mathematics Olympiad Work Book (IMO) - Class 5 for 2018-19]]>
+            </line>
+            <line>
+              <![CDATA[Books List: International Mathematics Olympiad Work Book (IMO) - Class 2 for 2018-19]]>
+            </line>
+            <line>
+              <![CDATA[Books List: International Mathematics Olympiad Work Book (IMO) - Class 4 for 2018-19]]>
+            </line>
+            <line>
+              <![CDATA[Book List Printed as Expected - TC Failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:testCases.HomePageTest@47c62251]" name="browserclose" is-config="true" duration-ms="111" started-at="2018-08-02T06:55:50Z" finished-at="2018-08-02T06:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- testCases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
