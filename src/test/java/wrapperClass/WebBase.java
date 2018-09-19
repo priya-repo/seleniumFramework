@@ -14,7 +14,7 @@ public class WebBase {
 	public void browser() {
 		String browser = TestProperty.readTestProperites("browser");
 		if (browser.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", TestProperty.readTestProperites("chromedriverLocation"));
+			System.setProperty("webdriver.chrome.driver", TestProperty.readTestProperites("winchromedriverLocation"));
 			driver = new ChromeDriver();
 		} else if (browser.equals("ff")) {
 			System.setProperty("webdriver.gecko.driver", TestProperty.readTestProperites("ffriverLocation"));
